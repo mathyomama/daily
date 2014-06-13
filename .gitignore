@@ -1,0 +1,9 @@
+# python compiled files
+*.py[cwo]
+
+# haskell compiled files and object files
+*.hi
+*.o
+
+# Places where executables are located
+bin/
